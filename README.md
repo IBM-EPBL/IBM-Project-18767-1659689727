@@ -1,6 +1,6 @@
 **<h1>IBM-Project-18767-1659689727</h1>**
 
-<h1>**PROJECT TITLE: Personal Assistance for Seniors Who Are Self-Reliant**</h1>
+**<h1>PROJECT TITLE: Personal Assistance for Seniors Who Are Self-Reliant</h1>**
 
 TEAM ID: PNT2022TMID42603
 
